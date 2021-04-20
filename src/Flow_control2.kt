@@ -47,7 +47,7 @@ fun P(product:String) {
         for (name in names) {
             if (name.length % 2 == 0) {
                 c += 1
-                // val name = "Mary"
+
             }
         }
             return name
